@@ -32,11 +32,11 @@ body {
   border: none;
   border-radius: 5px;
   cursor: pointer;
-  transition: background-color 0.3s; /* Smooth transition for hover effect */
+  transition: background-color 0.3s; 
 }
 
 #check-btn:hover {
-  background-color: #388e3c; /* Darker green on hover */
+  background-color: #388e3c; 
 }
 
 #result {
