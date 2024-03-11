@@ -1,0 +1,47 @@
+body {
+    font-family: 'Roboto', sans-serif;
+  background: linear-gradient(135deg, #667eea, #764ba2); /* Gradient background */
+  color: #333; /* Dark text color for better readability */
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 600px;
+  padding: 20px;
+  text-align: center;
+  background-color: white; /* White background for container */
+  border-radius: 10px; /* Rounded corners */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Box shadow for depth */
+}
+
+.input-container {
+  margin-bottom: 20px;
+}
+
+#text-input {
+  padding: 10px; /* Increased padding for better touch interaction */
+  margin-right: 5px;
+  border: 1px solid #ccc; /* Add border for input field */
+  border-radius: 5px; /* Rounded corners for input field */
+}
+
+#check-btn {
+  padding: 10px 20px;
+  background-color: #4caf50; /* Green button color */
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s; /* Smooth transition for hover effect */
+}
+
+#check-btn:hover {
+  background-color: #388e3c; /* Darker green on hover */
+}
+
+#result {
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-top: 20px;
+  font-family: 'Roboto', sans-serif;
+}
