@@ -9,9 +9,9 @@ body {
   max-width: 600px;
   padding: 20px;
   text-align: center;
-  background-color: white; /* White background for container */
-  border-radius: 10px; /* Rounded corners */
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Box shadow for depth */
+  background-color: white; 
+  border-radius: 10px; 
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
 }
 
 .input-container {
@@ -19,15 +19,15 @@ body {
 }
 
 #text-input {
-  padding: 10px; /* Increased padding for better touch interaction */
+  padding: 10px; 
   margin-right: 5px;
-  border: 1px solid #ccc; /* Add border for input field */
-  border-radius: 5px; /* Rounded corners for input field */
+  border: 1px solid #ccc; 
+  border-radius: 5px; 
 }
 
 #check-btn {
   padding: 10px 20px;
-  background-color: #4caf50; /* Green button color */
+  background-color: #4caf50; 
   color: white;
   border: none;
   border-radius: 5px;
